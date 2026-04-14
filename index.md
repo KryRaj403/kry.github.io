@@ -3,8 +3,9 @@ layout: default
 author: kryraj
 ---
 
-¡Buenas! Bienvenidos a mí pagina de Github (principalmente hacking, de un par de ramas etc) el cual serviría para dar a conocer un poco lo que hago. Y como lo hago. 
-kry
+¡Buenas! Bienvenidos a mi página de GitHub, la cual trata sobre mi camino y conocimientos en la ciberseguridad.  
+
+--kry
 
 {% assign posts = site.posts%}
 
