@@ -3,7 +3,11 @@ layout: default
 author: kryraj
 ---
 
-¡Buenas! Bienvenidos a mi página de GitHub, la cual trata sobre mi camino y conocimientos en la ciberseguridad.  
+¡Buenas! Bienvenidos a mi página de GitHub, la cual trata sobre mi camino y conocimientos en la ciberseguridad. 
+Mi objetivo en este espacio es dar un poco de respaldo a lo que aprendo y lo que voy probando. Espero que alguien leyendo esto pueda quitarle alguna piedra del camino.
+
+[Sobre mí](/about/)
+
 
 --kry
 
